@@ -269,29 +269,23 @@ a.info_a {
 .purple_block {
     background: #9C69E2;
     border-radius: 50px;
-    width: 1118px;
-    height: 709px;
-    align-items: center;
+    padding: 109px 76px 60px 93px;
 }
 .white_block {
     width: 949px;
-    height: 330px;
-    margin-left: 93px;
     background: #FFFFFF;
-    box-shadow: 0px 20px 0px rgba(156, 105, 226, 0.3);
+    box-shadow: 0px 20px 0px rgba(118, 62, 193, 0.9);
     border-radius: 20px;
     margin-top: 88px;
+    margin-bottom: 60px;
+    padding: 60px 103px 50px;
 }
 .purple_block_title {
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
     line-height: 130%;
-    display: flex;
-    align-items: center;
     color: #FFFFFF;
-    margin-left: 93px;
-    padding-top: 109px;
 }
 .slide {
     margin-top: 75px;
@@ -308,17 +302,14 @@ a.info_a {
     font-weight: 900;
     font-size: 18px;
     line-height: 160%;
-    display: flex;
     align-items: center;
     letter-spacing: 0.005em;
-    margin-top: -80px;
 }
 .grey_text_white {
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 160%;
-    display: flex;
     align-items: center;
     letter-spacing: 0.01em;
     color: #9C69E2;
@@ -332,19 +323,14 @@ a.info_a {
     color: #4B5D68;
 }
 .arrows {
-    position: absolute;
-    margin-left: 850px;
-    margin-top: 70px;
 }
 .payment_title {
     font-style: normal;
     font-weight: bold;
     font-size: 40px;
     line-height: 130%;
-    display: flex;
     align-items: center;
     color: #212353;
-    margin-top: 352px;
 }
 .payment_info {
     font-style: normal;
@@ -355,7 +341,6 @@ a.info_a {
     color: #4B5D68;
 }
 .learn_more_payment {
-    width: 170px;
     height: 60px;
     background: #F063B8;
     border-radius: 50px;
@@ -369,9 +354,10 @@ a.info_a {
     color: #FFFFFF;
     padding-left: 37px;
     margin-left: auto;
+    margin-right: 30px;
+    padding-right: 37px;
 }
 .request_demo_button {
-    width: 210px;
     height: 60px;
     background: #FFFFFF;
     box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
@@ -384,6 +370,8 @@ a.info_a {
     display: flex;
     align-items: center;
     letter-spacing: 0.005em;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 .title_near_logo {
     font-style: normal;
@@ -489,4 +477,11 @@ a.info_a {
 }
 .block_call_action {
     display: flex;
+    margin-top: 100px;
+    align-items: center;
+}
+.footer {
+    margin-top: 150px;
+    padding-bottom: 90px;
+    border-top: 2px solid #9C69E2;
 }

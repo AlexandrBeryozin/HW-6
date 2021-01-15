@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbb50791-b1bb-4ada-b18b-934805da7b88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW-6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
     </list>
@@ -22,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -41,6 +42,9 @@
       <workItem from="1610710947953" duration="1211000" />
       <workItem from="1610713203641" duration="1793000" />
       <workItem from="1610715111068" duration="515000" />
+      <workItem from="1610716632195" duration="228000" />
+      <workItem from="1610716936304" duration="1753000" />
+      <workItem from="1610718712194" duration="67000" />
     </task>
     <servers />
   </component>
